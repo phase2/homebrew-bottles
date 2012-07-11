@@ -5,6 +5,9 @@ class PyVcprompt < Formula
   homepage 'https://github.com/djl/vcprompt'
 
   def install
+    system "python setup.py build"
+    
+    # Install manually
     bin.install "bin/vcprompt"
   end
 end
