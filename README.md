@@ -21,5 +21,6 @@ If that does not work (no formulae for py-vcprompt), then try
 
   * _brew install --HEAD phase2/bottles/py-vcprompt_ 
 
+Also includes a formula for Grails 1.3.7
 
 That is all, moar to come...
