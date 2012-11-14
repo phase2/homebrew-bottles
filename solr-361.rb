@@ -1,6 +1,6 @@
 require 'formula'
 
-class Solr < Formula
+class Solr361 < Formula
   homepage 'http://lucene.apache.org/solr/'
   url 'http://www.apache.org/dyn/closer.cgi?path=lucene/solr/3.6.1/apache-solr-3.6.1.tgz'
   sha1 'd9f8a4086fb66e716e526d1a047578efdbdd0ede'
